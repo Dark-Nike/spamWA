@@ -1,2 +1,2 @@
 # spammerWA
-Script untuk spam chat whatsapp
+Script untuk spam chat whatsapp !!
